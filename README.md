@@ -21,4 +21,4 @@ A top-down medieval fantasy trading game in Python, built solo since December 20
 ### On shadows
 As you can see in one of the images, I'm also experimenting a bit with dynamic shadows cast from 2d sprites depending on time of day, which is a bit tricky. So the shadows grow and shrink depending on time of day. Shadows cast straight upwards from strucutres and characters work quite well, but right now im also trying shadows that move diagonally from north-west to south-east on top of the shrinking and growing, in order to simulate a sun thats moving from south-east to south-west. for that i had to map all 2d sprites/structures with heightmaps, the height of each pixel, which is quite tedious but it was interesting to see a result that works quite well.its definitely harder to draw correct shadows in a 2d world than a 3d world. i might regress to purely straight shadwos in case the diagonal ones feel too agressive/take up to much attention. 
 
-The code is private, but I'm happy to walk through it in an interview.
+### The code is private, but I'm happy to walk through it in an interview.
