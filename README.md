@@ -7,7 +7,8 @@
 
 ## Profit and Peril (private repo)
 
-<img src="screenshot-trade.png" width="49%" alt="Haggling with a customer, with a read on their personality traits"> | <img src="screenshot-town.png" width="49%" alt="Picking an heirloom at the start of a new game">
+<img src="screenshot-trade.png" width="49%" alt="Haggling with a customer, with a read on their personality traits"> 
+<img src="screenshot-town.png" width="49%" alt="Picking an heirloom at the start of a new game">
 
 A top-down medieval fantasy trading game in Python, built solo since December 2024 on Pygame and NumPy, with no game engine. I wrote all of the code myself for the first year before bringing in Claude Code.
 
